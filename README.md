@@ -1,3 +1,7 @@
+🌎 **Languages**
+- 🇺🇸 English (this page)
+- 🇧🇷 [Português](i18n/README-pt-BR.md)
+
 # 👋Hi! I'm José Luiz ( call me Junior 😅)
 
 - 👨🏻‍💻 I started working in development in 2010.
