@@ -13,9 +13,9 @@
 
 ## 💼 Companies where I already worked:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/juniorjrjl/juniorjrjl/main/assets/logos/embraer.png" alt="Embraer" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/username/assets/main/picpay.png" alt="PicPay" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/username/assets/main/caju.png" alt="Caju" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/username/assets/main/rd-drogasil.png" alt="Grupo RD Drogasil" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/username/assets/main/ame-digital.png" alt="AME Digital" width="50" height="50"/>
+  <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/embraer.png" alt="Embraer" width="50" height="50"/>
+  <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/picpay.jpeg" alt="PicPay" width="50" height="50"/>
+  <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/caju.png" alt="Caju" width="50" height="50"/>
+  <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/rd-drogasil.png" alt="Grupo RD Drogasil" width="50" height="50"/>
+  <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/ame-digital.png" alt="AME Digital" width="50" height="50"/>
 </p>
