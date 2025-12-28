@@ -13,19 +13,19 @@
 
 ## 💼 Companies where I already worked:
 <p align="left">
-  <a href="https://www.embraer.com/" target="_blank">
+  <a href="https://www.embraer.com/">
     <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/embraer.png" alt="Embraer" width="50" height="50"/>
   </a>
-  <a href="https://picpay.com" target="_blank">
+  <a href="https://picpay.com">
     <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/picpay.jpeg" alt="PicPay" width="50" height="50"/>
   </a>
-  <a href="https://www.caju.com.br/" target="_blank">
+  <a href="https://www.caju.com.br/">
     <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/caju.png" alt="Caju" width="50" height="50"/>
   </a>
-  <a href="https://rdsaude.com.br" target="_blank">
+  <a href="https://rdsaude.com.br">
     <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/rd-drogasil.png" alt="Grupo RD Drogasil" width="50" height="50"/>
   </a>
-  <a href="https://www.amedigital.com" target="_blank">
+  <a href="https://www.amedigital.com">
     <img src="https://github.com/juniorjrjl/juniorjrjl/blob/main/assets/logos/ame-digital.png" alt="AME Digital" width="50" height="50"/>
   </a>
 </p>
