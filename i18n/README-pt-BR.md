@@ -1,3 +1,7 @@
+🌎 **Languages**
+- 🇺🇸 [English](../README.md)
+- 🇧🇷 Português (página atual)
+
 # 👋Olá! eu sou José Luiz ( mas me chama de Junior 😅)
 
 - 👨🏻‍💻 Comecei a trabalhar como dev em 2010.
