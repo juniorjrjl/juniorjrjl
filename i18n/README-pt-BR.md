@@ -61,10 +61,9 @@
   <a href="https://www.amedigital.com">
     <img src="../assets/logos/ame-digital.png" alt="AME Digital" width="80" height="50"/>
   </a>
-    </a>
-      <a href="https://www.amedigital.com">
-      <img src="../assets/logos/pluxee.png" alt="Pluxee" width="80" height="50"/>
-    </a>
+  <a href="https://www.pluxee.com.br">
+    <img src="../assets/logos/pluxee.png" alt="Pluxee" width="80" height="50"/>
+  </a>
 </p>
 
 ---
