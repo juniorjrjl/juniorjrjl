@@ -23,7 +23,7 @@
   <img src="../assets/stacks/java.png" alt="Java" width="50" height="50"/>
   <img src="../assets/stacks/spring-boot.webp" alt="Sring Boot" width="100" height="50"/>
 </p>
-(Versões do Java: 8, 11, 17 and 21)
+(Versões do Java: 8, 11, 17, 21 e 25)
 
 ### 👍🏻 Já utilizadas em oportunidades:
 <p align="left">
@@ -61,6 +61,10 @@
   <a href="https://www.amedigital.com">
     <img src="../assets/logos/ame-digital.png" alt="AME Digital" width="80" height="50"/>
   </a>
+    </a>
+      <a href="https://www.amedigital.com">
+      <img src="../assets/logos/pluxee.png" alt="Pluxee" width="80" height="50"/>
+    </a>
 </p>
 
 ---
